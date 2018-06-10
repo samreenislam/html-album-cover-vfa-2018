@@ -63,9 +63,9 @@ p {
 
 span {
   display: inline-block;
-  font-size: 1em;
-  line-height: 1em;
-  letter-spacing: .35em;
+  font-size: .9em;
+  line-height: 1.9em;
+  letter-spacing: .1em;
   vertical-align: top;
   padding-top: 10px;
 }
